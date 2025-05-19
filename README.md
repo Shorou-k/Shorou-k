@@ -15,8 +15,8 @@ I’m passionate about building AI-driven solutions that make data more impactfu
 
 | Project | Tech Stack | Description |
 |--------|-------------|-------------|
-| **Vector DB Chatbot (BYOD)** | Python, OpenAI, Azure | Chatbot using RAG + BYOD to generate performance insights |
-| **Azure AI Chatbot** | Azure OpenAI, REST APIs | Chatbot integrated with Azure Cognitive Search |
+| **Vector DB Chatbot (BYOD)** | Python, Azure OpenAI, Cosmos DB | Chatbot using RAG + BYOD to generate performance insights |
+| **Azure AI Chatbot** | Azure OpenAI, REST APIs | Chatbot integrated with Azure AI Search |
 | **API & Scraping Solution** | BeautifulSoup, FastAPI | Pulls and cleans data from client websites for reporting |
 
 ---
